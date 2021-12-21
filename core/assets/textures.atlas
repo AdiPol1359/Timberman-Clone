@@ -1,0 +1,109 @@
+textures.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: y
+logo
+  rotate: false
+  xy: 0, 0
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+splash-text
+  rotate: false
+  xy: 500, 0
+  size: 1142, 81
+  orig: 1142, 81
+  offset: 0, 0
+  index: -1
+play-button
+  rotate: false
+  xy: 1476, 1190
+  size: 444, 215
+  orig: 444, 215
+  offset: 0, 0
+  index: -1
+timberman-logo
+  rotate: false
+  xy: 1619, 81
+  size: 301, 120
+  orig: 301, 120
+  offset: 0, 0
+  index: -1
+man
+  rotate: false
+  xy: 820, 1517
+  size: 294, 403
+  orig: 294, 403
+  offset: 0, 0
+  index: -1
+animated-man-1
+  rotate: false
+  xy: 339, 1588
+  size: 446, 332
+  orig: 446, 332
+  offset: 0, 0
+  index: -1
+animated-man-2
+  rotate: false
+  xy: 0, 1598
+  size: 334, 322
+  orig: 294, 403
+  offset: 0, 0
+  index: -1
+stump
+  rotate: false
+  xy: 1535, 229
+  size: 385, 81
+  orig: 385, 81
+  offset: 0, 0
+  index: -1
+trunk
+  rotate: false
+  xy: 1586, 313
+  size: 334, 243
+  orig: 334, 243
+  offset: 0, 0
+  index: -1
+left-branch
+  rotate: false
+  xy: 1251, 559
+  size: 669, 243
+  orig: 669, 243
+  offset: 0, 0
+  index: -1
+right-branch
+  rotate: false
+  xy: 1251, 806
+  size: 669, 243
+  orig: 669, 243
+  offset: 0, 0
+  index: -1
+rip
+  rotate: false
+  xy: 1551, 1845
+  size: 85, 75
+  orig: 85, 75
+  offset: 0, 0
+  index: -1
+chop-left
+  rotate: false
+  xy: 1660, 1853
+  size: 172, 67
+  orig: 172, 67
+  offset: 0, 0
+  index: -1
+chop-right
+  rotate: false
+  xy: 1684, 1785
+  size: 172, 67
+  orig: 172, 67
+  offset: 0, 0
+  index: -1
+game-over
+  rotate: false
+  xy: 0, 723
+  size: 268, 300
+  orig: 268, 300
+  offset: 0, 0
+  index: -1
